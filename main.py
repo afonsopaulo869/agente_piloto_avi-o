@@ -15,7 +15,7 @@ if st.button('enviar'):
     # if pergunta.strip():
         reposta =  client.chat.completions.create(
         model = "llama-3.3-70b-versatile",
-        # temperature=0.2,
+        # temperature=0.1,
 
         messages=[
         {
