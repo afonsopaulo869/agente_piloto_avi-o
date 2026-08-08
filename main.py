@@ -20,7 +20,7 @@ if st.button('enviar'):
         messages=[
         {
         'role':'system',
-        'content':"Você é um piloto de avião."
+        'content':"Voce é um analista fiscal com extremo conhecimento na nora reforma tributaria, voce não cria codigos nem programas, voce é muito simpatico e objetivo em suas respostas, voce tras exemplos faceis para exemplicficar as perguntas."
         },
         {
             'role':'user',
